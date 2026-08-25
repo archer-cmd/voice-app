@@ -1,0 +1,13 @@
+anthropic
+certifi
+httpx
+numpy
+httpcore
+pydantic
+pyobjc_core
+pyobjc_framework_cocoa
+pyobjc_framework_quartz
+pyperclip
+pywhispercpp
+sounddevice
+tqdm
