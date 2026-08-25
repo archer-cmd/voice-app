@@ -11,7 +11,7 @@ tidied up by Claude.
 
 ## Install
 
-To install it, first download the installer here: [download](https://github.com/archer-cmd/voice-app/releases/download/1.0.1/Voice.App.pkg). Then open
+To install it, first download the installer here: [download](https://github.com/archer-cmd/voice-app/releases/download/1.0.0/Voice.App.pkg). Then open
 the file and follow the instructions.
 
 ## Using it
